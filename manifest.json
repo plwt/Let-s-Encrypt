@@ -1,0 +1,14 @@
+{
+    "name": "Let's Encrypt",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "theme_frame": "Let's Encrypt desktop Seburo 15062019.png"
+        },
+        "colors": {
+            "frame": "rgba(229, 230, 232, 1)",
+            "tab_background_text": "rgba(0, 0, 0, 1)"
+        }
+    }
+}
